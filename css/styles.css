@@ -41,3 +41,6 @@ ol{
 .margem{
     margin: 10px 20px 0px 0px;
 }
+.coments{
+    display: flex;
+}
