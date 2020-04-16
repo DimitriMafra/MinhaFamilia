@@ -1,46 +1,58 @@
-title{
+title {
     color: darkgoldenrod;
 }
+
 body {
 
     color: rgb(3, 56, 56);
     font-family: sans-serif;
     background-image: url();
 }
-p{
+
+p {
     color: rgb(121, 12, 0);
 }
-img{
+
+img {
     width: 100px;
 }
-.pai:hover{
+
+.pai:hover {
     border: 10px solid #000000;
     transition-duration: 5s;
 }
-.andy{
-    transform:rotate(90deg)  
+
+.andy {
+    transform: rotate(90deg)
 }
-.dimi{
- transform:rotate(90deg)
+
+.dimi {
+    transform: rotate(90deg)
 }
-.mae:hover{
-    transform:rotate(90deg);
-    transition-duration: 2500ms; 
+
+.mae:hover {
+    transform: rotate(90deg);
+    transition-duration: 2500ms;
 }
-.andy:hover{
+
+.andy:hover {
     transition-duration: 1400ms;
-    transform: translate(100px, 0px) rotate(90deg)  ;
+    transform: translate(100px, 0px) rotate(90deg);
 }
-.dimi:hover{
-   zoom:150%;
-   transition-duration: 1400ms;
+
+.dimi:hover {
+    zoom: 150%;
+    transition-duration: 1400ms;
 }
-ol{
+
+ol {
     display: flex;
 }
-.margem{
+
+.margem {
     margin: 10px 20px 0px 0px;
 }
-.coments{
+
+.coments {
     display: flex;
 }
